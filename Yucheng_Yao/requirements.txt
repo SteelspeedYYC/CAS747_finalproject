@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+jupyter
+notebook
+torch
+torch-geometric
+ogb
+networkx
+tqdm
