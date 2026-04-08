@@ -1,0 +1,6 @@
+# All Dataset used in project are not needed to manually download
+Cora / Pubmed (PyG Planetoid):
+https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.datasets.Planetoid.html
+
+Collab (OGB ogbl-collab):
+https://ogb.stanford.edu/docs/linkprop/#ogbl-collab

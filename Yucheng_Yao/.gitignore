@@ -2,9 +2,11 @@ note.txt
 
 # datasets
 data/*
-! data/urls.txt
+!data/urls.txt
 
 # outputs
 __pycache__/
 results/cfg_tuning*.csv
-results/models
+results/models/*
+results/plots/*
+results/tables/*
