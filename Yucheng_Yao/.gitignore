@@ -10,3 +10,4 @@ results/cfg_tuning*.csv
 results/models/*
 results/plots/*
 results/tables/*
+results/raw_json/*.json
